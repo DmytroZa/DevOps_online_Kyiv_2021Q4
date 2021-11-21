@@ -1,0 +1,32 @@
+$ git reflog
+316b7df (HEAD -> master, origin/master, origin/develop, develop) HEAD@{0}: merge develop: Fast-forward
+c694ab9 HEAD@{1}: checkout: moving from develop to master
+316b7df (HEAD -> master, origin/master, origin/develop, develop) HEAD@{2}: commit (merge): 1st merge
+6a76944 (origin/images, images) HEAD@{3}: merge images: Fast-forward
+1a45125 HEAD@{4}: checkout: moving from styles to develop
+329bdf0 (origin/styles, styles) HEAD@{5}: commit: new changes in html file
+1061ea9 HEAD@{6}: commit: adding css file
+1a45125 HEAD@{7}: checkout: moving from develop to styles
+1a45125 HEAD@{8}: checkout: moving from images to develop
+6a76944 (origin/images, images) HEAD@{9}: commit: adding images to html file
+3a25ed6 HEAD@{10}: commit: adding images to html file
+c6c81ee HEAD@{11}: checkout: moving from master to images
+c694ab9 HEAD@{12}: checkout: moving from images to master
+c6c81ee HEAD@{13}: commit: adding some photo folder
+1a45125 HEAD@{14}: checkout: moving from develop to images
+1a45125 HEAD@{15}: commit: adding empty html file, for training purpose
+c694ab9 HEAD@{16}: checkout: moving from master to develop
+c694ab9 HEAD@{17}: checkout: moving from develop to master
+c694ab9 HEAD@{18}: checkout: moving from master to develop
+c694ab9 HEAD@{19}: commit (initial): first commit to check does it work
+
+Conclution 
+
+The final result of making making few branches was their marge in one master 
+
+ 
+
+DevOps in my opinion is manager who's responsobility to proceed smooth production and get fast resolt as soon as it possible off final product. 
+It is position between developer who is working directly with code and oparations who's responsibility to support working software. 
+DevOps has to manage CI solutions to make working with code more fastes becouse it is tasting almoust in real time and CD to deploy resolt of developer's work in diferant environmen.
+Last but not least it is supporting of deployed project and solve any issue that could apear after release.
